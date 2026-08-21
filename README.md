@@ -42,7 +42,7 @@ Este repositório contém a documentação e o código-fonte do projeto, onde re
 
 5. **Deploy e Hospedagem na Vercel:**
    - Importação do repositório no painel da Vercel.
-   - Build e publicação contínua garantindo a disponibilidade pública do projeto.
+   - Build e publicação contínua, assegurando o acesso público do projeto.
 
 ---
 
